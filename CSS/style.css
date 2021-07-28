@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.concept{
+    background-color: #8578ce;
+    color: rgb(36, 36, 39);
+    height: 200px;
+    text-align: center;
+}
+.describe{
+    background-color: cadetblue;
+    color: rgb(29, 27, 28);
+    height: 400px;
+    text-align: center;
+}
+.types{
+    overflow: hidden;
+}
+.micro{
+background-color: darkgreen;
+text-align: center;
+width: 50%;
+height: 250px;
+float: left;
+}
+.macro{
+background-color: darkslategray;
+text-align: center;
+width: 50%;
+height: 250px;
+float: right;
+}
+.economic-sector{
+    overflow: hidden;
+}
+.agri{
+background-color: rgb(66, 19, 44);
+float: left;
+height: 200px;
+width: 70%;
+text-align: center;
+}
+.industri{
+    background-color: rgba(38, 0, 128, 0.521);
+    float: right;
+    height: 200px;
+    width: 30%;
+}
+.economic-function{
+    overflow: hidden;
+}
+.ftn-one{
+background-color: lightcoral;
+float: left;
+width: 25%;
+height: 100px;
+text-align: center;
+}
+.ftn-two{
+    background-color: lightgreen;
+    float: left;
+    width: 25%;
+height: 100px;
+text-align: center;
+}.ftn-three{
+    background-color: lightskyblue;
+    float: left;
+    width: 25%;
+height: 100px;
+text-align: center;
+}.ftn-four{
+    background-color: lightslategrey;
+    float: left;
+    width: 25%;
+height: 100px;
+text-align: center;
+}
+.surplus{
+    background-color: maroon;
+    text-align: center;
+    height: 200px;
+}
